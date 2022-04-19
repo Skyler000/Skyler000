@@ -1,0 +1,18 @@
+scp banner_image.png root@143.110.248.93:/var/www/html/wp-content/themes/gloreya/assets/images/banner/       -- to move the data to anotner server
+
+ps aux | grep python3    -- to find the running odoo services
+
+sudo su postgres
+psql
+then dbs list chyan 
+\l
+drop database "db_name";
+ith cheyunnenu munne odoo service stop cheyanam
+
+
+
+apt-get install python3-dev default-libmysqlclient-dev build-essential
+
+
+
+
